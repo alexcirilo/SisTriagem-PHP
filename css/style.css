@@ -1,0 +1,14 @@
+/* style.css */
+
+/* footer */
+footer {
+    position: relative;
+    width: 100%;
+    text-align: center;
+    color: aliceblue;
+    padding: 10px;
+}
+
+li{
+    list-style: none;
+}
